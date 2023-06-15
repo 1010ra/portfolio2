@@ -1,0 +1,388 @@
+.bnt{
+ margin-top: 8%;
+ margin-left: 9%;
+ width:22rem;
+ height: 80px;
+ background-color: #E35F00;
+ border-bottom-left-radius: 20px;
+ border-top-right-radius: 20px;
+ color: white;
+ border: black solid 1px;
+ box-shadow: 5px 10px 4px 4px darkgray;
+ font-size: 2rem;
+}
+.book{
+    color: #172B4D;
+    margin-top: 28%;
+    font-size: 3rem;
+}
+.bookk{
+    color: #E35F00;
+    font-size: xxx-large;
+    margin-bottom: -1.5rem;
+}
+.build{
+    margin-top:15%;
+    color:  #1E488F;
+    font-size:2rem;
+    text-align: center;
+}
+#works{
+    margin-top: 10%;
+    color:#172B4D;
+    font-size: 2rem;
+    text-align: center;
+}
+#col{
+    height: 10px;
+    width: 160px;
+    background-color: #172B4D;
+    border-radius: 50px;
+    margin-left: 27%;
+    margin-bottom: 4%; 
+}
+#About{
+    margin-top: 6%;
+    font-size: 4rem;
+    color:  #172B4D;
+    text-align: center;
+}
+.lh-lg{
+    text-align: center;
+    margin-top: 3%;
+    color:  #1E488F;
+}
+
+#next{
+    font-size: 1rem;
+    margin-left: 50%;
+    margin-bottom: 15%;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 5px;
+    
+}
+.card-title{
+    font-size: 2rem;
+    margin-top: 10%;
+    margin-right:4% ; 
+    color: #172B4D;
+    
+}
+.card-title1{
+    font-size: 2rem;
+}
+
+ul{
+    list-style:none;
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    padding-left: 0%;
+    justify-content: center;
+}
+ul li{
+    background-color:#EBEFF4;
+    border-radius: 4px;
+    color: #FE984E;
+    padding: 9px;
+    margin-top: 30px;
+    margin: 4px;
+}
+.but1{
+    background-color:#FFFFFF;
+    border: none;
+    margin-top: 4%;
+    color: #FE984E;
+    border-radius: 4px;
+    padding: 4px;
+   
+ 
+      
+}
+ 
+
+
+.but{
+    background-color: #36B37E;
+    border: none;
+    width: 9rem;
+    color: #FFFFFF;
+    font-size: 20px; 
+    height: 5vh;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.rakiss{
+  margin-right: 29%;
+  font-size: 1rem; 
+  margin-top: 28%;
+}
+.icon:hover {
+    fill: #E35F00 !important;
+     }
+input ,textarea{
+    box-shadow: none !important;
+}
+.bnt:hover{
+    background-color: #FE984E;   
+}
+.bnt:focus{
+    background-color: #E35F00;
+}
+textarea:focus{
+    border:1px solid #E35F00 !important;
+}
+input:focus{
+    border:1px solid #E35F00 !important;
+} 
+.but:hover{
+    background-color:#C5E9DA ;
+}
+.but:focus{
+    background-color:#28855D ;
+}
+.mode:hover{
+    background-color: #FE984E !important;
+}
+.mode:focus{
+    background-color: #E35F00 !important;
+}
+
+
+
+.poot{
+    margin-left: 4%;
+}
+.wwm{
+text-align: center;
+margin-top: 1%;
+}
+
+.bi-check-circle{
+height: 40vh;
+margin-top: 90%;
+}
+.buttonn{
+    background-color:#FFFFFF;
+    border: none;
+    border-radius: 6%;
+    margin-left: 1%;
+    margin-top: 6%;
+} 
+
+
+.rect{
+    margin-top:10% !important ;
+    font-size: 2rem;
+     color:  #172B4D
+    
+}
+.h1{
+    color:  #1E488F; 
+}
+.mpot{
+    margin-top: 10%;
+    font-size: 2rem;
+    text-align: center;
+}
+.card1{
+    background-color:#EBF0EE ;
+}
+.book{
+    display: flex;
+}
+.show{
+    text-align: center;
+    margin-top: 10%;
+    color: #16294a;
+    font-size: 3rem;
+}
+.mode{
+    background-color:#E35F00;
+    border: none;
+    width: 12%;
+    color: #FFFFFF;
+    font-size: 1rem;
+    text-decoration: none; 
+    text-align: justify; 
+    height: 6vh;
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 51%;
+    box-shadow: none; 
+    margin-top: 2%;
+}
+.card img{
+   border-radius: 15px !important;
+   box-shadow: 5px 5px 5px 5px rgb(186, 180, 180);
+}
+.card-img-top{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+}
+.card-group{
+    width:100% !important;
+    gap: 20px; 
+   
+}
+
+
+.navbar-nav{
+   margin-left: auto !important;
+   margin-right: auto !important;
+}
+
+
+
+.img-fluid{
+    height: 85vh;
+    max-width: 109%;
+    margin-top: 3%;
+}
+.card-body {
+ padding: 0rem;
+  border: 1px solid rgb(204, 198, 198);
+  border-radius: 10px 10px 15px 15px ;
+ border-top-left-radius: 15px solid  !important;
+ border-top-right-radius: 15px solid !important;
+
+} 
+#call1{
+    border-radius: 20px;
+    border: 1px solid rgb(204, 198, 198);
+}
+
+.mrd{
+   margin-bottom: 40%;
+    background-color: #E35F00;
+}
+.rectF{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.mac{
+    margin-top: 10%;
+}
+@media screen and (max-width:375px){
+    .but{
+        margin-bottom: 20px;
+    }
+    .img-fluid{
+        height: 50vh;
+        max-width: 85%;
+        margin-top: 3%;
+    }
+    .btn {
+        width: 34% !important;
+        margin-top: 10% !important; 
+        margin-bottom: 15% !important; 
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+    .show {
+        color: #16294a;
+        font-size: 2rem;
+        text-transform: uppercase !important;
+   
+}
+.mode{
+    width: 34% !important;
+    margin-left: 34% !important;
+    margin-top: 13% !important;
+}
+.blr{
+    border-left: none !important;
+    border-right: none !important;
+}
+.card-body{
+    border-left: none !important;
+    border-right: none !important;
+}
+.wwm{
+    text-align: center;
+    margin-top: 2%;
+    padding:10px;
+    }
+    ul li{
+        padding: 2px;
+        margin:2px ;
+    }
+    h4 {
+        font-size: calc(1.275rem + .3vw);
+    }
+
+}
+@media screen and (min-width: 376px ) and (max-width: 768px )  {
+    ul li{
+        padding: 5px !important;
+    }
+    .but{
+        height: 11vh !important;
+        margin-top: 6px;   
+    }
+    .card-group {
+        width: 100% !important;
+}
+#col{
+    margin-left: 38% !important;
+    margin-top: 10% !important;
+}
+.but{
+    height: 5vh !important;
+    margin-bottom: 15px !important;
+}
+h4 {
+    font-size: calc(2.275rem + .3vw);
+}
+.mode{
+    width: 30% !important;
+    margin-left: 31% !important;
+    margin-top: 5% !important;
+}
+.rect{
+    margin-top: 3% !important;
+    font-size: 3rem;
+}
+.rakiss {
+    margin-right: 3% !important;
+}
+.bnt{
+  margin-right: 8%;
+}
+
+
+}
+
+@media screen and (min-width: 769px ) and (max-width: 425px) {
+ 
+.but{
+    margin-bottom: 2rem !important;
+}
+.navbar-toggler {
+    margin-left: 300px !important;
+ 
+}
+h4 {
+    font-size: calc(1.275rem + .3vw);
+}
+#col{
+    margin-left: 27% !important;
+}
+
+}
+@media screen and (max-width: 1024px ) and (min-width: 768px ){
+    .but{
+        height: 5vh !important;
+        margin-bottom: 15px !important;
+    }
+    .mode{
+        margin-top: 3% !important;
+    }
+    .bnt{
+        margin-left: 4%;
+        width: 18rem;
+    }
+}
